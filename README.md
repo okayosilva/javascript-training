@@ -14,3 +14,4 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades em JavaSc
 | Tipo de Dados       | ✅ Completo |
 | Número e Operadores | ✅ Completo |
 | Boolean e Condições | ✅ Completo |
+| Funções | ✅ Completo |
