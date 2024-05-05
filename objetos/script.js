@@ -69,7 +69,25 @@ const title = document.querySelector(".title");
 const paragraph = document.querySelector(".paragraph");
 const inputName = document.querySelector(".name");
 
-content.style.display = "flex";
-formContent.style.backgroundColor = "blue";
+content.style.display = "";
+formContent.style.backgroundColor = "";
 title.innerHTML = "Olá, Mundo!";
 paragraph.textContent = "Seja bem-vindo ao meu site!";
+inputName.style.marginBottom = "10px";
+
+const copyTextareaBtn = document.querySelector(".copiar");
+
+copyTextareaBtn.addEventListener("click", () => {
+  const copyTextarea = document.querySelector(".textarea");
+  copyTextarea.select();
+
+  try {
+    const successful = document.execCommand("copy");
+    const msg = successful ? "sim!" : "não!";
+    alert(`Texto copiado? ${msg}`);
+  } catch (err) {
+    alert(
+      "Opa, Não conseguimos copiar o texto, é possivel que o seu navegador não tenha suporte, tente usar Crtl+C."
+    );
+  }
+});
