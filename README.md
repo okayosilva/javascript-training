@@ -16,3 +16,4 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades em JavaSc
 | Boolean e Condições | ✅ Completo |
 | Funções | ✅ Completo |
 | Objetos | ✅ Completo |
+| Array e Loop | ✅ Completo |
