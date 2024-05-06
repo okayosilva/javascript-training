@@ -17,3 +17,4 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades em JavaSc
 | Funções | ✅ Completo |
 | Objetos | ✅ Completo |
 | Array e Loop | ✅ Completo |
+| Atribuição e Ternário | ✅ Completo |
