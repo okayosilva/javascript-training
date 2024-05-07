@@ -8,13 +8,14 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades em JavaSc
 
 ## Temas presentes neste repositório
 
-| Temas               | Status      |
-| ------------------- | ----------- |
-| Variáveis           | ✅ Completo |
-| Tipo de Dados       | ✅ Completo |
-| Número e Operadores | ✅ Completo |
-| Boolean e Condições | ✅ Completo |
-| Funções | ✅ Completo |
-| Objetos | ✅ Completo |
-| Array e Loop | ✅ Completo |
+| Temas                 | Status      |
+| --------------------- | ----------- |
+| Variáveis             | ✅ Completo |
+| Tipo de Dados         | ✅ Completo |
+| Número e Operadores   | ✅ Completo |
+| Boolean e Condições   | ✅ Completo |
+| Funções               | ✅ Completo |
+| Objetos               | ✅ Completo |
+| Array e Loop          | ✅ Completo |
 | Atribuição e Ternário | ✅ Completo |
+| Escopo                | ✅ Completo |
