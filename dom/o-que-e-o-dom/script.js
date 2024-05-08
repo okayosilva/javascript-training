@@ -1,27 +1,16 @@
-{
-  var color = "black";
-  const brand = "Chevrolet";
-  let doors = 4;
+const page = window.location.href;
+const currentPage = "http://127.0.0.1:5500/dom/o-que-e-o-dom/index.html";
 
-  console.log(color, brand, doors);
-}
+if (page.includes(currentPage)) console.log("Estamos na página correta");
 
-const dois = 2;
-function somarDois(x) {
-  return x + dois;
-}
-function dividirDois(x) {
-  return x / dois;
-}
+const activeTag = document.querySelector(".active");
+console.log(activeTag.innerText);
 
-// console.log(somarDois(4));
-// console.log(dividirDois(6));
+const language = window.navigator.language;
+console.log(language);
 
-const numero = 50;
+const width = window.innerWidth;
+console.log(width);
 
-// for(let i = 0; i < 10; i++) {
-//   console.log(numero);
-// }
-
-const total = 10 * numero;
-console.log(total);
+const height = window.innerHeight;
+console.log(height);

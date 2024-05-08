@@ -8,7 +8,7 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades em JavaSc
 
 ## Temas presentes neste repositório
 
-| Temas                 | Status      |
+| Fundamentos           | Status      |
 | --------------------- | ----------- |
 | Variáveis             | ✅ Completo |
 | Tipo de Dados         | ✅ Completo |
@@ -19,3 +19,11 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades em JavaSc
 | Array e Loop          | ✅ Completo |
 | Atribuição e Ternário | ✅ Completo |
 | Escopo                | ✅ Completo |
+
+<hr/>
+<br/>
+
+| DOM           | Status      |
+| ------------- | ----------- |
+| O que é o DOM | ✅ Completo |
+| Tipo de Dados | ✅ Completo |
