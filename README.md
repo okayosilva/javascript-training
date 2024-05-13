@@ -19,6 +19,7 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades em JavaSc
 | Array e Loop          | ✅ Completo |
 | Atribuição e Ternário | ✅ Completo |
 | Escopo                | ✅ Completo |
+| Classes e Atributos   | ✅ Completo |
 
 <hr/>
 <br/>
