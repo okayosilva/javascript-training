@@ -31,3 +31,4 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades em JavaSc
 | Selecionar o DOM         | ✅ Completo |
 | ForEach e Arrow Function | ✅ Completo |
 | Dimensões e Distâncias   | ✅ Completo |
+| Elementos                | ✅ Completo |
