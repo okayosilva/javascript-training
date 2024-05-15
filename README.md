@@ -30,3 +30,4 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades em JavaSc
 | Tipo de Dados            | ✅ Completo |
 | Selecionar o DOM         | ✅ Completo |
 | ForEach e Arrow Function | ✅ Completo |
+| Dimensões e Distâncias   | ✅ Completo |
