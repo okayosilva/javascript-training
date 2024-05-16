@@ -32,3 +32,4 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades em JavaSc
 | ForEach e Arrow Function | ✅ Completo |
 | Dimensões e Distâncias   | ✅ Completo |
 | Elementos                | ✅ Completo |
+| Traversing               | ✅ Completo |
