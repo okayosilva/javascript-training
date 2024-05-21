@@ -35,3 +35,4 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades em JavaSc
 | Traversing e Manipulação  | ✅ Completo |
 | Accordion List            | ✅ Completo |
 | Scroll Suave Link Interno | ✅ Completo |
+| Scroll Animado            | ✅ Completo |
