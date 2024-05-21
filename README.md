@@ -24,13 +24,14 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades em JavaSc
 <hr/>
 <br/>
 
-| DOM                      | Status      |
-| ------------------------ | ----------- |
-| O que é o DOM            | ✅ Completo |
-| Tipo de Dados            | ✅ Completo |
-| Selecionar o DOM         | ✅ Completo |
-| ForEach e Arrow Function | ✅ Completo |
-| Dimensões e Distâncias   | ✅ Completo |
-| Elementos                | ✅ Completo |
-| Traversing e Manipulação | ✅ Completo |
-| Accordion List           | ✅ Completo |
+| DOM                       | Status      |
+| ------------------------- | ----------- |
+| O que é o DOM             | ✅ Completo |
+| Tipo de Dados             | ✅ Completo |
+| Selecionar o DOM          | ✅ Completo |
+| ForEach e Arrow Function  | ✅ Completo |
+| Dimensões e Distâncias    | ✅ Completo |
+| Elementos                 | ✅ Completo |
+| Traversing e Manipulação  | ✅ Completo |
+| Accordion List            | ✅ Completo |
+| Scroll Suave Link Interno | ✅ Completo |
