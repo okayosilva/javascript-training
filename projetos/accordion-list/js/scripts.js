@@ -1,3 +1,5 @@
+const menu = document.querySelector(".menu");
+
 function initTabNav() {
   const tabList = document.querySelectorAll(".js-tab-animais li");
   const tabContent = document.querySelectorAll(".js-tab-content section");
